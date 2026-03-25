@@ -4,8 +4,8 @@ Public legal/support pages for the Goblin Node app.
 
 ## Live URLs
 
-- Privacy Policy: https://YOUR_GITHUB_USERNAME.github.io/goblin-node-legal/privacy
-- Support: https://YOUR_GITHUB_USERNAME.github.io/goblin-node-legal/support
+- Privacy Policy: https://rainerweston.github.io/goblin-node-legal/privacy
+- Support: https://rainerweston.github.io/goblin-node-legal/support
 
 ## Files
 
